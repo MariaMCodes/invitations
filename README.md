@@ -1,1 +1,1 @@
-# invitations
+# Array of invitation design templates
