@@ -1,5 +1,4 @@
 body,
-h1,
 h2 {
     font-family: 'Raleway', sans-serif;
 }
@@ -26,4 +25,21 @@ p {
 
 .bgimg2 {
     background-image: url("img/header-img3.jpg")
+}
+
+#us, #wedding{
+    background-color: #F8F0E5;
+}
+
+#rsvp{
+    background-color: #F2D8D8;
+}
+
+.title{
+    font-family: 'Great Vibes', sans-serif;
+    font-weight: bolder;
+}
+
+.address{
+    text-decoration: none;
 }
